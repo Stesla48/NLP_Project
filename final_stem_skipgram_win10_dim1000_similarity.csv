@@ -1,0 +1,6 @@
+subject_id,hadm_id,complaint_stem,diagnosis_stem,similarity_score
+44212,163189,"['emerg', 'transfer', 'hospextram']","['immun', 'thrombocyt', 'purpra']",1.0000001
+40595,116518,"['emerg', 'transfer', 'hospextram']",['irradi'],0.9985753
+43870,142633,"['emerg', 'transfer', 'hospextram']","['pulm', 'congesthypostasi']",0.9985203
+10120,193924,"['emerg', 'transfer', 'hospextram']","['cerebr', 'edema']",0.9985169
+10088,149044,"['emerg', 'transfer', 'hospextram']","['cerebr', 'atherosclerosi']",0.9985139

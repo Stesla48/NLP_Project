@@ -1,0 +1,6 @@
+subject_id,hadm_id,complaint_lemma,diagnosis_lemma,similarity_score
+44212,163189,"['emergency', 'transfer', 'hospextram']","['immune', 'thrombocyt', 'purpra']",0.9999998
+43870,142633,"['emergency', 'transfer', 'hospextram']","['pulm', 'congesthypostasis']",0.9975909
+42321,114648,"['emergency', 'transfer', 'hospextram']","['pure', 'hypercholesterolem']",0.997511
+10088,149044,"['emergency', 'transfer', 'hospextram']","['cerebral', 'atherosclerosis']",0.99750274
+10088,149044,"['emergency', 'transfer', 'hospextram']",['sepsis'],0.99749327

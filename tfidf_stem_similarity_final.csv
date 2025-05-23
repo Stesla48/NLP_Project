@@ -1,0 +1,6 @@
+subject_id,hadm_id,similarity_score,complaint_stem,diagnosis_stem
+44212,163189,0.8598677632068443,"['emerg', 'transfer', 'hospextram']","['meth', 'susc', 'staph', 'aur', 'sept']"
+10088,149044,0.4060796006760049,"['emerg', 'transfer', 'hospextram']","['septicemia', 'no']"
+10059,142582,0.4042193531657644,"['emerg', 'transfer', 'hospextram']","['cirrhosi', 'liver', 'no']"
+10019,177759,0.4042193531657644,"['emerg', 'transfer', 'hospextram']","['septicemia', 'no']"
+41914,101361,0.4042193531657644,"['emerg', 'transfer', 'hospextram']","['ventltr', 'assoc', 'pneumonia']"

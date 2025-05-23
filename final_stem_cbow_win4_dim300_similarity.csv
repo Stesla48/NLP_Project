@@ -1,0 +1,6 @@
+subject_id,hadm_id,complaint_stem,diagnosis_stem,similarity_score
+44212,163189,"['emerg', 'transfer', 'hospextram']","['immun', 'thrombocyt', 'purpra']",0.9999998
+40177,198480,"['emerg', 'transfer', 'hospextram']",['dehydr'],0.9968927
+42321,114648,"['emerg', 'transfer', 'hospextram']","['pure', 'hypercholesterolem']",0.9968841
+44212,163189,"['emerg', 'transfer', 'hospextram']",['hyperosmol'],0.99681723
+42321,114648,"['emerg', 'transfer', 'hospextram']",['hyperosmol'],0.99681723

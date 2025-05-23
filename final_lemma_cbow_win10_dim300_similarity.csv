@@ -1,0 +1,6 @@
+subject_id,hadm_id,complaint_lemma,diagnosis_lemma,similarity_score
+44212,163189,"['emergency', 'transfer', 'hospextram']","['immune', 'thrombocyt', 'purpra']",1.0
+43870,142633,"['emergency', 'transfer', 'hospextram']","['pulm', 'congesthypostasis']",0.9974003
+40304,174997,"['emergency', 'transfer', 'hospextram']",['hyperosmolality'],0.9973418
+44212,163189,"['emergency', 'transfer', 'hospextram']",['hyperosmolality'],0.9973418
+10011,105331,"['emergency', 'transfer', 'hospextram']",['hyperosmolality'],0.9973418
